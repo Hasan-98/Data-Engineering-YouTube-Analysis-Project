@@ -18,7 +18,7 @@ We can’t process vast amounts of data on our local computer so we need to use 
 ### Reporting:
 Build a dashboard to get answers to the question we asked earlier
 
-## Services we will be using
+## Services used
 
 ### Amazon S3: 
 Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
